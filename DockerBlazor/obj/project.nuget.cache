@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6oczp+xdmPtZjhT63Nsk0f38JN58MHsYja1u298JdzINmnK1c2CNoTJ1i+XjK9cUp1UDUZ/7BEtGuGMVoxtyA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\pault\\source\\repos\\SolutionDockerBlazor\\DockerBlazor\\DockerBlazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
